@@ -1,0 +1,3 @@
+C:\Users\User\source\repos\Бензиновый калькулятор\Бензиновый калькулятор\Debug\Бензиновый калькулятор.vcxprojAssemblyReference.cache
+C:\Users\User\source\repos\Бензиновый калькулятор\Бензиновый калькулятор\Debug\Бензиновый_калькулятор.Form1.resources
+C:\Users\User\source\repos\Бензиновый калькулятор\Бензиновый калькулятор\Debug\Бензиновый калькулятор.vcxproj.GenerateResource.cache
